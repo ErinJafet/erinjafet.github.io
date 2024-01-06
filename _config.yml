@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "es-MX"
-title                    : "Monstruosity"
+title                    : 
 title_separator          : "-"
 name                     : &name "Erin Jafet. Ramirez Hernandez"
 description              : &description "personal description"
