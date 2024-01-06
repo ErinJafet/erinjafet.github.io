@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "es-MX"
 title                    : 
-title_separator          : "-"
+title_separator          : 
 name                     : &name "Erin Jafet. Ramirez Hernandez"
 description              : &description "personal description"
 url                      : https://erinjafet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
